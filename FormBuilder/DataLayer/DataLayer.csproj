@@ -74,6 +74,8 @@
     <Compile Include="Models\BasicComponent\TextBox.cs" />
     <Compile Include="Models\Form.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\FormCreating\FormCreatingRepository.cs" />
+    <Compile Include="Repositories\FormCreating\IFormCreatingRepository.cs" />
     <Compile Include="Repositories\FormGettingValue\GettingValueRepository.cs" />
     <Compile Include="Repositories\FormGettingValue\IGettingValueRepository.cs" />
     <Compile Include="Repositories\IRepository.cs" />

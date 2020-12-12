@@ -7,11 +7,21 @@ using Common.Enums;
 
 namespace DataLayer.Models.AdvancedComponent
 {
-    public class BirthDayPicker :BaseComponent
+    public class BirthDayPicker : BaseComponent
     {
-        public BirthDayPicker():base()
+        public BirthDayPicker() : base()
         {
 
+        }
+        public BirthDayPicker(string birthDayPickerHelpText, bool birthDayPickerIsRequired, int minimumAge, int maximumAge, Month month, int year, int day, string componentLabel) : base(componentLabel)
+        {
+            BirthDayPickerHelpText = birthDayPickerHelpText;
+            BirthDayPickerIsRequired = birthDayPickerIsRequired;
+            MinimumAge = minimumAge;
+            MaximumAge = maximumAge;
+            this.Month = month;
+            Year = year;
+            Day = day;
         }
         public string BirthDayPickerHelpText { get; set; }
         public bool BirthDayPickerIsRequired { get; set; }

@@ -11,7 +11,13 @@ namespace DataLayer.Models.BasicComponent
         public DropDown():base()
         {
         }
-        public String DropDownLabel { get; set; }
+        public DropDown(List<string> dropDownOptions, string dropDownSelectedOptions, string dropDownHelpText, bool isRequiredDropDown, string componentLabel) :base(componentLabel)
+        {
+            DropDownOptions = dropDownOptions;
+            DropDownSelectedOptions = dropDownSelectedOptions;
+            DropDownHelpText = dropDownHelpText;
+            IsRequiredDropDown = isRequiredDropDown;
+        }
         public List<string> DropDownOptions { get; set; }
         public string DropDownSelectedOptions { get; set; }
         public string DropDownHelpText { get; set; }

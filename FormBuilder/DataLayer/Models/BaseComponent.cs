@@ -14,6 +14,11 @@ namespace DataLayer.Models
         {
             ComponentID = Guid.NewGuid();
         }
+        public BaseComponent(string componentLabel)
+        {
+            ComponentID = Guid.NewGuid();
+            ComponentLabel = componentLabel;
+        }
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public Guid ComponentID { get; set; }

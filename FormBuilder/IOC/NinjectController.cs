@@ -1,5 +1,6 @@
 ﻿using DataLayer.DataUnitOfWork;
 using Ninject;
+using Services.CreateNewFormService;
 using Services.GetInfoService;
 using System;
 using System.Collections.Generic;
@@ -23,6 +24,7 @@ namespace IOC
         void AddBinding()
         {
             _nenjectkernel.Bind<IGettingInfoService>().To<GettingInfoService>();
+            _nenjectkernel.Bind<ICreatingNewFormService>().To<CreatingNewFormService>();
             _nenjectkernel.Bind<IUnitOfWork>().To<UnitOfWork>();
 
         }

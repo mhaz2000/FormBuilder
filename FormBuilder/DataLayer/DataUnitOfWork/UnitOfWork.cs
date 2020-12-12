@@ -1,6 +1,7 @@
 ﻿using DataLayer.Context;
 using DataLayer.Models;
 using DataLayer.Repositories;
+using DataLayer.Repositories.FormCreating;
 using DataLayer.Repositories.FormGettingValue;
 using System;
 using System.Collections.Generic;
@@ -19,6 +20,7 @@ namespace DataLayer.DataUnitOfWork
         {
             _dbContext = context;
             GettingValueRepository = new GettingValueRepository(_dbContext);
+            FormCreatingRepository = new FormCreatingRepository(_dbContext);
         }
         public IRepository<Form> Forms
         {
@@ -30,6 +32,8 @@ namespace DataLayer.DataUnitOfWork
         }
 
         public IGettingValueRepository GettingValueRepository { get; }
+
+        public IFormCreatingRepository FormCreatingRepository { get; }
 
         public void Save()
         {
