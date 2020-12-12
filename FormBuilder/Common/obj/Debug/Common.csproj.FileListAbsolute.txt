@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Common\bin\Debug\Common.dll
+C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Common\bin\Debug\Common.pdb
+C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Common\obj\Debug\Common.dll
+C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Common\obj\Debug\Common.pdb
