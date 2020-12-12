@@ -51,9 +51,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Context\FromDataBase.cs" />
+    <Compile Include="Context\FormDataBase.cs" />
     <Compile Include="DataUnitOfWork\IUnitOfWork.cs" />
     <Compile Include="DataUnitOfWork\UnitOfWork.cs" />
+    <Compile Include="Migrations\202012120740232_Initial.cs" />
+    <Compile Include="Migrations\202012120740232_Initial.designer.cs">
+      <DependentUpon>202012120740232_Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AdvancedComponent\Address.cs" />
     <Compile Include="Models\AdvancedComponent\BirthDayPicker.cs" />
     <Compile Include="Models\AdvancedComponent\Email.cs" />
@@ -83,6 +88,11 @@
       <Project>{ebb1f1a4-67c3-4b71-8277-175e38a99467}</Project>
       <Name>Common</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202012120740232_Initial.resx">
+      <DependentUpon>202012120740232_Initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

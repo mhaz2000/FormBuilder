@@ -12,7 +12,7 @@ namespace DataLayer.Repositories.FormGettingValue
 {
     class GettingValueRepository : Repository<Form>, IGettingValueRepository
     {
-        public GettingValueRepository(FromDataBase dataBase):base(dataBase)
+        public GettingValueRepository(FormDataBase dataBase):base(dataBase)
         {
 
         }

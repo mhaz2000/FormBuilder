@@ -13,9 +13,9 @@ namespace DataLayer.DataUnitOfWork
     public class UnitOfWork : IUnitOfWork
     {
         private Repository<Form> _formRepo;
-        private FromDataBase _dbContext;
+        private FormDataBase _dbContext;
 
-        public UnitOfWork(FromDataBase context)
+        public UnitOfWork(FormDataBase context)
         {
             _dbContext = context;
             GettingValueRepository = new GettingValueRepository(_dbContext);

@@ -11,11 +11,11 @@ namespace DataLayer.Repositories
 {
     class Repository<TEntity> : IRepository<TEntity> where TEntity : class
     {
-        internal FromDataBase context;
+        internal FormDataBase context;
 
         internal DbSet<TEntity> dbSet;
 
-        public Repository(FromDataBase context)
+        public Repository(FormDataBase context)
         {
             this.context = context;
             this.dbSet = context.Set<TEntity>();
