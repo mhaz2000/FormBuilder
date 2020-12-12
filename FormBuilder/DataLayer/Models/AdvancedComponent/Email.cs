@@ -13,6 +13,13 @@ namespace DataLayer.Models.AdvancedComponent
 
         }
 
+        public Email(string emailHelpText, bool emailIsRequired, string emailText, int emailMaxCharacter, string componentLabel) :base(componentLabel)
+        {
+            EmailHelpText = emailHelpText;
+            EmailIsRequired = emailIsRequired;
+            EmailText = emailText;
+            EmailMaxCharacter = emailMaxCharacter;
+        }
         public string EmailHelpText { get; set; }
         public bool EmailIsRequired { get; set; }
         public string EmailText { get; set; }

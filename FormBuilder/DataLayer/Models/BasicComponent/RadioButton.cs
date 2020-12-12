@@ -11,6 +11,13 @@ namespace DataLayer.Models.BasicComponent
         public RadioButton() : base()
         {
         }
+        public RadioButton(List<string> radioBoxOptions, string radioBoxSelectedOptions, string radioBoxHelpBox, bool radioBoxIsRequired, string componentLabel) : base(componentLabel)
+        {
+            RadioBoxOptions = radioBoxOptions;
+            RadioBoxSelectedOptions = radioBoxSelectedOptions;
+            RadioBoxHelpBox = radioBoxHelpBox;
+            RadioBoxIsRequired = radioBoxIsRequired;
+        }
         public List<string> RadioBoxOptions { get; set; }
         public string RadioBoxSelectedOptions { get; set; }
         public string RadioBoxHelpBox { get; set; }

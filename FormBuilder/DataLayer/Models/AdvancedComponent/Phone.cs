@@ -12,6 +12,13 @@ namespace DataLayer.Models.AdvancedComponent
         {
 
         }
+        public Phone(string phoneHelpText, bool phoneIsRequired, string phoneAreaCode, string phoneNumber, string componentLabel) :base(componentLabel)
+        {
+            PhoneHelpText = phoneHelpText;
+            PhoneIsRequired = phoneIsRequired;
+            PhoneAreaCode = phoneAreaCode;
+            PhoneNumber = phoneNumber;
+        }
         public string PhoneHelpText { get; set; }
         public bool PhoneIsRequired { get; set; }
         public string PhoneAreaCode { get; set; }

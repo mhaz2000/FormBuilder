@@ -12,7 +12,10 @@ namespace DataLayer.Models.BasicComponent
         {
             
         }
-
+        public Heading(string headingText) : base()
+        {
+            HeadingText=headingText;
+        }
         public string HeadingText { get; set; }
         public Form Form { get; set; }
 

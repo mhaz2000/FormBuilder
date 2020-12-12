@@ -10,6 +10,10 @@ namespace DataLayer.Models.BasicComponent
     {
         public TextBox() : base()
         {
+
+        }
+        public TextBox(string TextBoxHint, string TextBoxHelpText, string TextBoxText, bool TextBoxIsRequired, int TextBoxMaxCharacter, string componentLabel) : base(componentLabel)
+        {
         }
         public string TextBoxHint { get; set; }
         public string TextBoxHelpText { get; set; }

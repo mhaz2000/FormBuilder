@@ -12,6 +12,14 @@ namespace DataLayer.Models.AdvancedComponent
         {
 
         }
+        public FullName(string fullNameHelpText, string fullNameFirstNamePart, string fullNameMiddleNamePart, bool fullNameIsRequired, string fullNameLastNamePart, string componentLabel) : base(componentLabel)
+        {
+            FullNameHelpText = fullNameHelpText;
+            FullNameFirstNamePart = fullNameFirstNamePart;
+            FullNameMiddleNamePart = fullNameMiddleNamePart;
+            FullNameIsRequired = fullNameIsRequired;
+            FullNameLastNamePart = fullNameLastNamePart;
+        }
         public string FullNameHelpText { get; set; }
         public string FullNameFirstNamePart { get; set; }
         public string FullNameMiddleNamePart { get; set; }

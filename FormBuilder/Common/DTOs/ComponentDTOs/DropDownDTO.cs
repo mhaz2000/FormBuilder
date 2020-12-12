@@ -8,7 +8,7 @@ namespace Common.DTOs.ComponentDTOs
 {
     public class DropDownDTO :BaseComponentDto
     {
-        public List<string> DropDwonOptions { get; set; }
+        public List<string> DropDownOptions { get; set; }
         public string SelectedOptions { get; set; }
     }
 }
