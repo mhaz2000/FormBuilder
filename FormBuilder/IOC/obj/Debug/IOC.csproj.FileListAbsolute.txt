@@ -29,3 +29,34 @@ C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\IOC\obj\Debug\IOC.csproj.Cor
 C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\IOC\obj\Debug\IOC.csproj.CopyComplete
 C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\IOC\obj\Debug\IOC.dll
 C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\IOC\obj\Debug\IOC.pdb
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\IOC.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\IOC.pdb
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\DataLayer.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\Ninject.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\Services.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\System.Web.Helpers.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\System.Web.Mvc.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\System.Web.Razor.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\System.Web.WebPages.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\EntityFramework.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\Common.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\DataLayer.pdb
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\DataLayer.dll.config
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\Services.pdb
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\Ninject.xml
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\System.Web.Helpers.xml
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\System.Web.Mvc.xml
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\System.Web.Razor.xml
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\System.Web.WebPages.xml
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\EntityFramework.xml
+E:\Form Builder\FormBuilder\FormBuilder\IOC\bin\Debug\Common.pdb
+E:\Form Builder\FormBuilder\FormBuilder\IOC\obj\Debug\IOC.csprojAssemblyReference.cache
+E:\Form Builder\FormBuilder\FormBuilder\IOC\obj\Debug\IOC.csproj.CoreCompileInputs.cache
+E:\Form Builder\FormBuilder\FormBuilder\IOC\obj\Debug\IOC.csproj.CopyComplete
+E:\Form Builder\FormBuilder\FormBuilder\IOC\obj\Debug\IOC.dll
+E:\Form Builder\FormBuilder\FormBuilder\IOC\obj\Debug\IOC.pdb

@@ -4,3 +4,9 @@ C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Common\obj\Debug\Common.cspr
 C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Common\obj\Debug\Common.dll
 C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Common\obj\Debug\Common.pdb
+E:\Form Builder\FormBuilder\FormBuilder\Common\bin\Debug\Common.dll
+E:\Form Builder\FormBuilder\FormBuilder\Common\bin\Debug\Common.pdb
+E:\Form Builder\FormBuilder\FormBuilder\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\Form Builder\FormBuilder\FormBuilder\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\Form Builder\FormBuilder\FormBuilder\Common\obj\Debug\Common.dll
+E:\Form Builder\FormBuilder\FormBuilder\Common\obj\Debug\Common.pdb

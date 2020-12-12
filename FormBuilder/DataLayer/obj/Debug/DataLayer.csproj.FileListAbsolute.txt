@@ -14,3 +14,19 @@ C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\DataLayer\bin\Debug\EntityFr
 C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
 C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\DataLayer\obj\Debug\DataLayer.Migrations.Initial.resources
 C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\bin\Debug\DataLayer.dll.config
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\bin\Debug\DataLayer.dll
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\bin\Debug\DataLayer.pdb
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\bin\Debug\Common.dll
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\bin\Debug\EntityFramework.dll
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\bin\Debug\Common.pdb
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\bin\Debug\EntityFramework.xml
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\obj\Debug\DataLayer.Migrations.Initial.resources
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\obj\Debug\DataLayer.csproj.GenerateResource.cache
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\obj\Debug\DataLayer.dll
+E:\Form Builder\FormBuilder\FormBuilder\DataLayer\obj\Debug\DataLayer.pdb

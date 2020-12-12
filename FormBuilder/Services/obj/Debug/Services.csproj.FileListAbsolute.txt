@@ -12,3 +12,17 @@ C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Services\obj\Debug\Services.
 C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Services\obj\Debug\Services.csproj.CopyComplete
 C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Services\obj\Debug\Services.dll
 C:\Users\asus\Desktop\me\C#\FormBuilder\FormBuilder\Services\obj\Debug\Services.pdb
+E:\Form Builder\FormBuilder\FormBuilder\Services\bin\Debug\Services.dll
+E:\Form Builder\FormBuilder\FormBuilder\Services\bin\Debug\Services.pdb
+E:\Form Builder\FormBuilder\FormBuilder\Services\bin\Debug\Common.dll
+E:\Form Builder\FormBuilder\FormBuilder\Services\bin\Debug\DataLayer.dll
+E:\Form Builder\FormBuilder\FormBuilder\Services\bin\Debug\EntityFramework.dll
+E:\Form Builder\FormBuilder\FormBuilder\Services\bin\Debug\Common.pdb
+E:\Form Builder\FormBuilder\FormBuilder\Services\bin\Debug\DataLayer.pdb
+E:\Form Builder\FormBuilder\FormBuilder\Services\bin\Debug\DataLayer.dll.config
+E:\Form Builder\FormBuilder\FormBuilder\Services\bin\Debug\EntityFramework.xml
+E:\Form Builder\FormBuilder\FormBuilder\Services\obj\Debug\Services.csprojAssemblyReference.cache
+E:\Form Builder\FormBuilder\FormBuilder\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+E:\Form Builder\FormBuilder\FormBuilder\Services\obj\Debug\Services.csproj.CopyComplete
+E:\Form Builder\FormBuilder\FormBuilder\Services\obj\Debug\Services.dll
+E:\Form Builder\FormBuilder\FormBuilder\Services\obj\Debug\Services.pdb
