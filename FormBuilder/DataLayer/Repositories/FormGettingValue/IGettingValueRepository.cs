@@ -11,5 +11,6 @@ namespace DataLayer.Repositories.FormGettingValue
     public interface IGettingValueRepository:IRepository<Form>
     {
         FormDTOCollection GetFormsInfo();
+        FormDTO GetFormInfoById(Guid id);
     }
 }
